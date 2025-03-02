@@ -1,2 +1,2 @@
-# Food apllication MERN stack
+# Food application using MERN stack
  
